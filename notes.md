@@ -7,7 +7,7 @@ Boilertrapp is a  [boilerplate](http://en.wikipedia.org/wiki/Boilerplate_(text))
 
 Release notes: 1.0
 ---------------------
-A Boilerplate is used to describe sections of code that can be reused over and over in new contexts or applications which provides good default values, reducing the need to specify program details in every project. ([wikipedia](http://en.wikipedia.org/wiki/Boilerplate_(text))
+A Boilerplate is used to describe sections of code that can be reused over and over in new contexts or applications which provides good default values, reducing the need to specify program details in every project. ([wikipedia](http://en.wikipedia.org/wiki/Boilerplate_(text\))
 
 Known Issues
 ------------------------------------

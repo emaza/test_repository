@@ -1,7 +1,7 @@
 [Boilertrapp](http://boilertrapp.appspot.com) 
 ==============================
 
-Boilertrapp is a  [boilerplate](http://en.wikipedia.org/wiki/Boilerplate_(text)\))
+Boilertrapp is a  [boilerplate](http://en.wikipedia.org/wiki/Boilerplate_(text\)))
  for Google App Engine using [boststrap](http://getbootstrap.com/). 
  Inspirated in [html5boilerplatea](http://html5boilerplate.com) and [gae-boilerplate](https://github.com/coto/gae-boilerplate).
 
